@@ -184,7 +184,7 @@
     "tsconfig-paths": "^3.14.1",
     "type-check": "^0.4.0",
     "type-fest": "^0.20.2",
-    "typescript": "^4.7.4",
+    "typescript": "^4.9.4",
     "unbox-primitive": "^1.0.2",
     "uri-js": "^4.4.1",
     "v8-compile-cache": "^2.3.0",
