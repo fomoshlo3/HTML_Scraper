@@ -46,7 +46,7 @@
     "es-shim-unscopables": "^1.0.0",
     "es-to-primitive": "^1.2.1",
     "escape-string-regexp": "^4.0.0",
-    "eslint": "^8.20.0",
+    "eslint": "^8.32.0",
     "eslint-config-standard": "^17.0.0",
     "eslint-config-standard-jsx": "^11.0.0",
     "eslint-import-resolver-node": "^0.3.6",
