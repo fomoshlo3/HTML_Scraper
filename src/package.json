@@ -190,7 +190,7 @@
     "v8-compile-cache": "^2.3.0",
     "which": "^2.0.2",
     "which-boxed-primitive": "^1.0.2",
-    "word-wrap": "^1.2.3",
+    "word-wrap": "^1.2.4",
     "wrappy": "^1.0.2",
     "xdg-basedir": "^4.0.0",
     "yallist": "^4.0.0",
